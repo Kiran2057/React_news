@@ -1,0 +1,9 @@
+.newsitem{
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.headlines{
+    text-align: center;
+    size: 20px;
+}
